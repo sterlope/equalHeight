@@ -9,11 +9,7 @@ How to Use
 Just call equal.js
 use this code to apply
 
-<script type="text/javascript">
-         $(document).ready(function(){
     equalHeight(".divA",20,".divB",0);
-   });
-        </script>
 
 
 Parameters
