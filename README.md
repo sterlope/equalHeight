@@ -14,4 +14,4 @@ use this code to apply
 
 Parameters
 ==========
-equalHeight(First div class,offset value, Second Div Class, offsetvalue);
+equalHeight( First div class,  offset value,  Second Div Class,  offsetvalue);
